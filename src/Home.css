@@ -1,0 +1,12 @@
+.Home {
+  margin: 0 auto;
+  max-width: 100%;
+  background-color: brown;
+}
+.Home col {
+  margin: 20px, 10px;
+  text-align: center;
+}
+.Home h5 {
+  padding: 20px;
+}
